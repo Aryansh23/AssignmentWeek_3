@@ -1,5 +1,5 @@
 #include<stdio.h>
-int gcd(int,int); 
+int gcd(int a,int b); 
 int main() 
 {   int a,b,g; 
     printf("Enter two numbers"); 
